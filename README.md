@@ -1,2 +1,2 @@
-# Teaching
-Repository of code for teaching
+# Teaching Repository
+Repository of code for teaching purposes. 
