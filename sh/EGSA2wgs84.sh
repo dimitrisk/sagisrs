@@ -1,7 +1,7 @@
 #!/bin/bash
 
-from="/home/dimitris/Downloads/coordinates/RetailNew"
-#echo $from
+from="Downloads/coordinates/RetailNew"
+echo $from
 
 ogrinfo -al -so $from
 
